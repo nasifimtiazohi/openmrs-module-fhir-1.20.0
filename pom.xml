@@ -68,7 +68,7 @@
 		<emrApiConditionModuleApiVersion>1.16</emrApiConditionModuleApiVersion>
 		<jacksonDataBindVersion>2.9.10.1</jacksonDataBindVersion>
 		<swaggerCondeGenVersion>2.3.1</swaggerCondeGenVersion>
-		<reportingcompatibilityVersion>1.5.13</reportingcompatibilityVersion>
+		<reportingcompatibilityVersion>1.5.15</reportingcompatibilityVersion>
 	</properties>
 
 	<dependencyManagement>
